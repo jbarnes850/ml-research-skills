@@ -1,0 +1,4 @@
+interface:
+  display_name: "ML Research Design"
+  short_description: "First-principles ML research design workflows"
+  default_prompt: "Design a rigorous ML research plan from first principles with explicit hypotheses, minimum viable experiments, decision checkpoints, and go/no-go criteria."
